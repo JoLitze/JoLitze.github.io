@@ -19,6 +19,7 @@ Program Manager of 3D printing & Design Teams						      June 2022 – June 2023
 - I mentored the student staff by training them on the different 3d printing equipment and bringing them to client meetings to 
      learn the relevant information and problem solving.
 - I created lab safety protocols and training guides over 3D slicing software and 3D printers, then managed training and hiring 
+
 Technical Operator for Bluesmith 3D-Printing					   February 2021 – November 2021
 - Operated and consulted for SLA, Polyjet, SLS, and FDM additive manufacturing projects in lab and medical applications.
 - I used systems thinking to understand how the machines interfaced with sliced files and how the mechanisms worked.

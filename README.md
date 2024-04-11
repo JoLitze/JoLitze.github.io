@@ -34,6 +34,32 @@ Project Manager & Design Engineer							              August 2020 – May 2022
 ・I mentored the design engineers by guiding them through prototyping challenges and building BOMs.
 ・Improved patient, researcher, and team experiences by designing and mesh modeling then manufacturing products for clients 
 
+Duke Mechanical Engineering Department								    Durham, NC
+Teaching Assistant											            Fall 2021
+・Provided course assistance to professor and class for Mechanical Engineering Analysis for Design [ME 321]
+・Prepared and guided laboratory experiments and procedures
+・Provided coursework tutoring and graded student work
+
+Duke Science & Society Center on Risk								    Durham, NC
+Mars Policy Report Architect									     May – December 2021
+・Curated and finalized research findings on space travel, economics, and sustainability for policy stakeholders
+・Graphically designed the 137-page policy report using LaTeX software and assisted team’s website design (ourmartian.world)
+
+Duke Outdoor Adventures										    Durham, NC
+Trip Leader and Facility Staff									August 2018 – May 2022
+・Organized and led trips with a small team by coordinating travel, food provision, and trained first aid certification
+・Managed rental purchases and visitor safety. Instructed climbing safety and skills lessons and set up wall equipment
+
+Space Center Houston											  Clearlake, TX
+Tour Guide												    Summer 2018 
+・Led several tram tours daily of 200+ visitors at a time throughout NASA’s Johnson Space Center
+・Prioritized visitor safety, cultivated extensive knowledge and history over space center, coordinated tour scheduling
+
+Compressor Generation Services									     Humble, TX	
+Documenter												    Summer 2017
+・Researched and gathered specifications for machinery and parts for current project documentation
+・Organized project data in comparison with real time development and shipment deadlines
+
 
 # Projects
 etc...

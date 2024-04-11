@@ -1,5 +1,5 @@
 # JoLitze.github.io
-
+< img src "https://github.com/JoLitze/JoLitze.github.io/blob/main/IMG_0307.jpg" >
 
 ## Education
 Write it here

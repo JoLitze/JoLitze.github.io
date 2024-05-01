@@ -1,7 +1,5 @@
 # JoLitze.github.io
 
-< img src "https://github.com/JoLitze/JoLitze.github.io/blob/main/IMG_0307.jpg" >
-
 ## Education
 # Rice University											 August 2023 - May 2025
 Master of Science in Space Studies 								             	                GPA 3.7
